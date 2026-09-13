@@ -3,3 +3,5 @@ uvicorn[standard]
 sqlalchemy
 python-jose[cryptography]
 pydantic[email]
+psycopg[binary]
+python-dotenv
