@@ -5,3 +5,4 @@ python-jose[cryptography]
 pydantic[email]
 psycopg[binary]
 python-dotenv
+psycopg2-binary
